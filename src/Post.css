@@ -16,6 +16,7 @@
 }
 .post__image > img {
   width: 100%;
+  max-height: 500px;
 }
 
 .post__topInfo > h3 {
@@ -37,11 +38,13 @@
   padding-top: 10px;
   display: flex;
   border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
   justify-content: space-evenly;
   font-size: medium;
   color: gray;
   cursor: pointer;
   padding: 15px;
+  margin-bottom: 20px;
 }
 
 .post__option {

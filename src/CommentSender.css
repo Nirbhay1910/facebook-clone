@@ -1,0 +1,31 @@
+.commentSender {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  background-color: #fff;
+  border-radius: 15px;
+  width: 100%;
+}
+.commentSender__top {
+  display: flex;
+  border-bottom: 1px solid #eff2f5;
+  padding: 15px;
+}
+.commentSender__top > form {
+  display: flex;
+  flex: 1;
+}
+.commentSender__top > form > input {
+  outline-width: 0;
+  border: none;
+  padding: 5px 20px;
+  margin: 0 10px;
+  border-radius: 999px;
+  background-color: #eff2f5;
+}
+.commentSender__top > form > button {
+  display: none;
+}
+.commentSender__input {
+  flex: 1;
+}
