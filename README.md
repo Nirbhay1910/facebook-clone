@@ -1,6 +1,6 @@
 # Facebook-Clone
 This project is made using React JS and Firebase.
-Website is hosted at: https://fb-clone-fbae8.web.app/
+Website is hosted at: https://fb-clone-nirbhay.netlify.app/
 YouTube link: https://www.youtube.com/watch?v=UXvnqBjy_Ro
 ## Features
 
